@@ -4,7 +4,7 @@ const en = {
   brand: "Readspeed",
   tagline: "Every tool runs in your browser.",
   metaDesc:
-    "Free reading-time and typing-speed tools that run in your browser. Estimate how long any text takes to read, test your WPM with live accuracy, and track book progress — nothing is uploaded.",
+    "Free reading-time and typing-speed tools: estimate reading time, test your WPM with live accuracy, and track book progress — nothing is uploaded.",
 
   nav: {
     tools: "All tools",
