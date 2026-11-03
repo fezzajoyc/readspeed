@@ -19,6 +19,10 @@ const id = {
     heroSub:
       "{n} alat untuk pembaca dan pengetik: perkirakan waktu baca pada empat kecepatan, ukur ketikan Anda dengan WPM dan akurasi langsung, lihat kapan buku itu selesai. Semuanya berjalan lokal di browser — cepat, gratis, tanpa daftar, tanpa unggah.",
     browseAll: "Lihat semua alat",
+    pinned: "Disematkan",
+    pin: "Sematkan di atas",
+    unpin: "Lepas sematan",
+    popular: "Populer saat ini",
     categoriesTitle: "Kategori",
     featuredTitle: "Alat populer",
     trustLocal: "File tetap di perangkat Anda",
@@ -77,6 +81,8 @@ const id = {
     howTo: "Cara pakai",
     faq: "Pertanyaan yang sering diajukan",
     related: "Alat terkait",
+    nextStep: "Langkah berikutnya",
+    copyLink: "Salin tautan",
     privacyNote:
       "Alat ini berjalan sepenuhnya di browser Anda. Data Anda tidak pernah meninggalkan perangkat — tidak diunggah ke server mana pun.",
     inCategory: "Lainnya di {category}",

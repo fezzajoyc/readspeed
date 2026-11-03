@@ -19,6 +19,10 @@ const en = {
     heroSub:
       "{n} tools for readers and typists: estimate reading time at four speeds, test your typing with live WPM and accuracy, and see when you will finish that book. Everything runs locally in your browser — fast, free, no signup, no uploads.",
     browseAll: "Browse all tools",
+    pinned: "Pinned",
+    pin: "Pin to top",
+    unpin: "Remove from pinned",
+    popular: "Popular right now",
     categoriesTitle: "Categories",
     featuredTitle: "Popular tools",
     trustLocal: "Files stay on your device",
@@ -77,6 +81,8 @@ const en = {
     howTo: "How to use",
     faq: "Frequently asked questions",
     related: "Related tools",
+    nextStep: "Next steps",
+    copyLink: "Copy link",
     privacyNote:
       "This tool runs entirely in your browser. Your data never leaves your device — it is not uploaded to any server.",
     inCategory: "More in {category}",

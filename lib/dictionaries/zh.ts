@@ -19,6 +19,10 @@ const zh: Dictionary = {
     heroSub:
       "{n} 个面向读者与打字者的工具:四档速度估算阅读时间、实时 WPM 与准确率的打字测试、读书进度追踪。全部在浏览器本地运行——快、免费、无需注册、不上传。",
     browseAll: "浏览全部工具",
+    pinned: "置顶",
+    pin: "置顶到首页",
+    unpin: "取消置顶",
+    popular: "大家都在用",
     categoriesTitle: "分类",
     featuredTitle: "热门工具",
     trustLocal: "文件留在你的设备上",
@@ -74,6 +78,8 @@ const zh: Dictionary = {
     howTo: "使用方法",
     faq: "常见问题",
     related: "相关工具",
+    nextStep: "下一步",
+    copyLink: "复制链接",
     privacyNote:
       "该工具完全在你的浏览器中运行,数据不会离开你的设备,不会上传到任何服务器。",
     inCategory: "{category}分类下的更多工具",
